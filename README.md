@@ -39,17 +39,17 @@ Ele é ideal para exercitar:
 ## 🖥 Demonstração  
 **Entrada:**  
 
-Nome do produto: Camisa
-Preço unitário (R\$): 50
-Quantidade (Unidades): 2
+Nome do produto: Camisa </br>
+Preço unitário (R\$): 50 </br>
+Quantidade (Unidades): 2 </br>
 
 
 **Saída:**  
 
-Produto:   Camisa
-Preço:     R\$ 50,00
-Qtd:       2
-Total:     R\$ 100,00
+Produto:   Camisa </br>
+Preço:     R\$ 50,00 </br>
+Qtd:       2 </br>
+Total:     R\$ 100,00 </br>
 
 
 ## ⚙ Tecnologias  

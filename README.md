@@ -4,11 +4,6 @@
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
-## 🖼 Pré-visualização do Projeto  
-
-<p align="center">
-  <img src="https://img.icons8.com/?size=512&id=12591&format=png" width="150" alt="Icone Caixa">
-</p>
 
 
 ## ✅ Sobre o Projeto  
@@ -32,7 +27,7 @@ Ele é ideal para exercitar:
   - Maior venda  
   - Produto com menor preço  
 
----
+
 
 ## 📌 Estrutura do Menu  
 
@@ -64,7 +59,7 @@ Total:     R\$ 100,00
   - `java.text.NumberFormat` → Formatação monetária  
   - `java.util.Locale` → Ajuste para moeda BRL  
 
----
+
 
 ## ▶ Como Executar  
 1. **Clone este repositório:**  
@@ -81,7 +76,7 @@ Total:     R\$ 100,00
    java FechamentoCaixa
 
 
----
+
 
 ## ✅ Melhorias Futuras
 
@@ -90,20 +85,18 @@ Total:     R\$ 100,00
 * 🖥 Interface gráfica com **JavaFX**
 * 🗑 Opção para remover ou corrigir vendas
 
----
 
 ## 📜 Licença
 
 Este projeto está sob a **Licença MIT**.
 Sinta-se à vontade para usar, modificar e distribuir.
 
----
+
 
 ### ⭐ Gostou do projeto?
 
 Deixe uma estrela ⭐ no repositório e contribua!
 
----
 
 
 
@@ -113,7 +106,3 @@ Deixe uma estrela ⭐ no repositório e contribua!
 - Estrutura organizada com seções profissionais
 - Destaques com emojis para facilitar a leitura  
 
----
-
-Quer que eu **gere também o arquivo LICENSE (MIT)** e um **template para Issues e Pull Requests no GitHub** para deixar seu repositório ainda mais completo e profissional?
-```
